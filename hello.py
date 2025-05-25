@@ -1,1 +1,3 @@
-print('Hello, Python!')
+import os
+
+print(dir(os))
