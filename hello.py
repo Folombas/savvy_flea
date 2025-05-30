@@ -1,3 +1,2 @@
-import os
-
-print(help(os))
+word = "Hello, World of Programming!"
+print(word)
